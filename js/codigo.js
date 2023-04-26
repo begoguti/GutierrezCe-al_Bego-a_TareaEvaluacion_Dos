@@ -10,7 +10,7 @@ var imgGrandes = ["img/cami.png", "img/pulsera.png", "img/asesora.png", "img/van
 var imgPeque = ["img/miniCami.png", "img/miniPulsera.png", "img/miniAsesora.png", "img/miniVan.png", "img/miniMaleta.png", "img/miniGorra.png"];
 var precios = [25, 15, 70, 90, 60, 18];
 var stock = [5, 10, 5, 365, 3, 8];
-var precioTransporte = [6];
+var precioTransporte = [6, 6, 6, 6, 6, 6]; 
 var IVA = 0.21;
 var uniUser;
 

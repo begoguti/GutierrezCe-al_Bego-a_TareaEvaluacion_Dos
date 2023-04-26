@@ -1,6 +1,5 @@
-﻿//	Hacer tienda online de informatica usando: HTML, CSS, JS
-//	En el codigo javascript hay que hacer la base de datos de los productos con un vector por ejemplo...
-
+﻿// BEGOÑA GUTIERREZ CEÑAL
+// 53549935R
 
 
 
